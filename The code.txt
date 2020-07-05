@@ -1,0 +1,4 @@
+// Two motor connected in series project.
+
+There is no code in this project.
+The two motors connected in series with the switch button and the Arduino work as power supply.
